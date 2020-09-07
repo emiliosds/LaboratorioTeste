@@ -8,7 +8,13 @@ Criação de uma nova rede social
  
  - Implementação dos testes da aplicação (utilizando SpecFlow - BDD)
  - Implementação dos testes da camada transversal (utilizando MSTest)
- 
- 
- 
+
+
  ![.NET Core](https://github.com/emiliosds/LaboratorioTeste/workflows/.NET%20Core/badge.svg?branch=master)
+
+
+## Trabalho Entregue 
+
+### Parabéns 
+
+![Resultados dos testes](ok.png)
